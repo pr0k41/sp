@@ -10538,8 +10538,8 @@
                         links: [
                             { label: "Aniwatch", value: "https://aniwatch.to/home" },
                             { label: "Aniwave", value: "https://aniwave.to/home" },
-                            { label: "Animepahe", value: "https://animepahe.ru" },
-			                      { label: "Animesuge", value: "https://animesuge.to/home" }
+/*                            { label: "Animepahe", value: "https://animepahe.ru" }, */
+/*			                      { label: "Animesuge", value: "https://animesuge.to/home" } */
                             { label: "Moopa", value: "https://moopa.live/en" }
                             { label: "Anify", value: "https://anify.tv/anime" }
                         ],
@@ -10549,8 +10549,7 @@
                         links: [
                             { label: "Mangareader", value: "https://mangareader.to" },
                             { label: "Mangadex", value: "https://mangadex.org" },
-                            { label: "Comick", value: "https://comick.fun" },
-                            { label: "Manhua", value: "https://manhuaplus.com" },
+ /*                           { label: "Comick", value: "https://comick.fun" }, */
                             { label: "Manga4life", value: "https://manga4life.com" },
                             { label: "Cubari", value: "https://proxy.cubari.moe" },
                             { label: "Mangafire", value: "https://mangafire.to" }
